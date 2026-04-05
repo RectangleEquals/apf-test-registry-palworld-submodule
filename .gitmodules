@@ -1,0 +1,3 @@
+[submodule "apf-test-registry-palworld-minimal"]
+	path = apf-test-registry-palworld-minimal
+	url = https://github.com/RectangleEquals/apf-test-registry-palworld-minimal
